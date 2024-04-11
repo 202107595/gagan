@@ -1,0 +1,257 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #c32727;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+section {
+    padding: 20px;
+}
+
+section h2 {
+    color: #11a813;
+}
+
+.product {
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 300px;
+    text-align: center;
+}
+
+.product img {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.product h3 {
+    margin-top: 0;
+}
+
+.product p {
+    color: #666;
+}
+
+button {
+    background-color: #0d7595;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+footer {
+    background-color: #0d7595;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #c32727;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+section {
+    padding: 20px;
+}
+
+section h2 {
+    color: #11a813;
+}
+
+.product {
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 300px;
+    text-align: center;
+}
+
+.product img {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.product h3 {
+    margin-top: 0;
+}
+
+.product p {
+    color: #666;
+}
+
+button {
+    background-color: #0d7595;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+footer {
+    background-color: #0d7595;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+
+/* Additional CSS for form elements */
+
+form {
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+form div {
+    margin-bottom: 10px;
+}
+
+form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+form input[type="text"],
+form textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+form input[type="submit"],
+form a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0d7595;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+form input[type="submit"]:hover,
+form a:hover {
+    background-color: #555;
+}
+
+form span {
+    color: red;
+    font-size: 14px;
+}
+
+
+/* Additional CSS for error page */
+
+.error {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.error h2 {
+    color: red;
+}
+
+.error p {
+    color: #333;
+}
+
+.error a {
+    color: #0d7595;
+}
+
+button,
+a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0d7595;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover,
+a:hover {
+    background-color: #555;
+}
+
+a {
+    text-decoration: none;
+}
